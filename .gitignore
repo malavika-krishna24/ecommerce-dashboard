@@ -1,0 +1,9 @@
+dashboard_env/
+__pycache__/
+*.pyc
+*.log
+derby.log
+archive*.zip
+dataset/
+processed/
+hive_ready/
